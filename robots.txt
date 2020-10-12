@@ -1,2 +1,3 @@
 User-agent: *
 Allow: *
+Sitemap: https://casino-mirror.github.io/sitemap.xml
