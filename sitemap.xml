@@ -1,33 +1,159 @@
 <?xml version="1.0" encoding="utf-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://casino-mirror.github.io/</loc>
-    <lastmod>2020-10-11</lastmod>
+    <lastmod>2020-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/images/joycasino-142x80.jpg</image:loc>
+        <image:title>Casino JoyCasino</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/images/playfortuna-142x80.jpg</image:loc>
+        <image:title>Casino Play Fortuna</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/images/casinox-142x80.jpg</image:loc>
+        <image:title>Casino-X</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/images/booi-142x80.jpg</image:loc>
+        <image:title>Casino Booi</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/images/slottyway-115x80.png</image:loc>
+        <image:title>Casino SlottyWay</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/images/superslotslogo-e1601425495582-118x80.jpg</image:loc>
+        <image:title>Casino SuperSlots</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/images/jozz4-e1600826950362-135x80.jpg</image:loc>
+        <image:title>Jozz Casino</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/images/champion-142x80.jpg</image:loc>
+        <image:title>Casino Чемпион</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/images/vavada-142x80.jpg</image:loc>
+        <image:title>Казино Vavada</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/images/deluxe-casino-115x80.jpg</image:loc>
+        <image:title>Deluxe Casino</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/images/lotoru-e1600355778784-136x80.jpg</image:loc>
+        <image:title>Casino Loto RU</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/images/1xslots-240x135-1-142x80.jpg</image:loc>
+        <image:title>1x-slots</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/images/azartplay-142x80.jpg</image:loc>
+        <image:title>Aplay Casino</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/images/slotv-142x80.jpg</image:loc>
+        <image:title>Casino Slot V</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/images/drift-142x80.jpg</image:loc>
+        <image:title>Drift Casino</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/images/frank-142x80.jpg</image:loc>
+        <image:title>Casino Frank</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/images/columbus-e1600298123289-144x80.png</image:loc>
+        <image:title>Casino Columbus</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/images/mrbit-142x80.jpg</image:loc>
+        <image:title>Casino mrBit</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/images/zolotoloto-143x80.jpg</image:loc>
+        <image:title>Золото Лото</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/images/41-80x80.jpg</image:loc>
+        <image:title>Casino Orca88</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/images/pobeda-142x80.jpg</image:loc>
+        <image:title>Casino Pobeda</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/images/msxbetslots-137x80.jpg</image:loc>
+        <image:title>Casino MaxBetSlots</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/images/CVulkan-80x80.png</image:loc>
+        <image:title>Club-Vulkan Casino</image:title>
+      </image:image>
   </url>
   <url>
     <loc>https://casino-mirror.github.io/casino/</loc>
-    <lastmod>2020-10-11</lastmod>
+    <lastmod>2020-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://casino-mirror.github.io/sitemap/</loc>
-    <lastmod>2020-10-11</lastmod>
+    <lastmod>2020-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://casino-mirror.github.io/casino/deluxe/</loc>
-    <lastmod>2020-10-11</lastmod>
+    <lastmod>2020-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/images/deluxe-casino-270x250.jpg</image:loc>
+        <image:title>Deluxe Casino</image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/images/deluxe-casino-1.jpg</image:loc>
+        <image:title></image:title>
+      </image:image>
   </url>
   <url>
     <loc>https://casino-mirror.github.io/casino/orca88/</loc>
-    <lastmod>2020-10-11</lastmod>
+    <lastmod>2020-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/images/41-270x270.jpg</image:loc>
+        <image:title>Casino Orca88</image:title>
+      </image:image>
+  </url>
+  <url>
+    <loc>https://casino-mirror.github.io/casino/casinox/</loc>
+    <lastmod>2020-11-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/casino/casinox/images/logo-2c43f6038af2713ad0b3b113868ce6fa.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/casino/casinox/images/banner-2c43f6038af2713ad0b3b113868ce6fat73gggjr9-casinox_slide1.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/casino/casinox/images/banner-2c43f6038af2713ad0b3b113868ce6fasyo5rr24k-casinox_slide2.png</image:loc>
+        <image:title></image:title>
+      </image:image>
+      <image:image>
+        <image:loc>https://casino-mirror.github.io/casino/casinox/images/banner-2c43f6038af2713ad0b3b113868ce6faid6qph8aw-casinox_slide3.png</image:loc>
+        <image:title></image:title>
+      </image:image>
   </url>
 </urlset>
